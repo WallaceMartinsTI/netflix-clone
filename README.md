@@ -11,7 +11,6 @@ No diretório do projeto, você pode utilizar:
 
 Executa a aplicação em modo desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para ver em seu navegador.
-tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## 📄 Licença
 
