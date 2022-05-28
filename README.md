@@ -1,6 +1,7 @@
 # 🎬 Netflix Clone
 
-Projeto realizado acompanhando a live do Professor Bonieky Lacerda.
+Projeto clonando a interface da Netflix, realizado acompanhando a live do Professor Bonieky Lacerda.
+Você pode acessar [clicando aqui](https://netflix-clone-pi-lovat.vercel.app/).
 
 ## 📜 Script Disponível
 
